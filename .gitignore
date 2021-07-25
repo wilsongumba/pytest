@@ -4,6 +4,7 @@ archive
 .coverage
 pytest_html_report.html
 report.xml
+output.json
 
 
 
